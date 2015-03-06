@@ -1,4 +1,26 @@
 body {
   font-size: 110%;
-  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-family: arial, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.students li{
+	list-style: square;
+}
+
+h1, .students li a{
+	color: #E62C2C;
+	text-decoration: none;
+}
+
+.students li{
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	margin-right: 3%;
+	color: #211F1F;
+}
+
+a{
+	color: #222;
 }
