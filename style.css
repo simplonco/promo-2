@@ -1,4 +1,17 @@
 body {
   font-size: 110%;
-  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  line-height:1.333em;
+  color: #444;
+  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 }
+
+.content {
+  margin: auto;
+  margin-top:2em;
+  max-width: 80%;
+}
+
+.content h1 {
+  text-align: center;
+}
+
