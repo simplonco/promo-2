@@ -16,10 +16,7 @@
 }
 
 body {
-  font-size: 110%;
-  line-height:1.333em;
-  font-family: sans-serif;
-  font-weight: 100;
+  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
   letter-spacing: 0.01em;
   color: #777;
 }
@@ -29,6 +26,11 @@ body {
   margin-top:1em;
   margin-bottom:3em;
   max-width: 70%;
+}
+
+.content p, .content li {
+  font-size: 110%;
+  line-height:1.333em;
 }
 
 .content h1 {
