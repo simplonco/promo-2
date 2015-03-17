@@ -51,6 +51,7 @@ body {
   margin-right: auto;
   vertical-align: super;
   margin-bottom: 2em;
+  max-width: 100%;
 }
 
 a {
